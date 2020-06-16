@@ -1,0 +1,3 @@
+*.vim eol=lf
+vimrc eol=lf
+gitconfig eol=lf

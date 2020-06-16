@@ -1,0 +1,53 @@
+set hlsearch incsearch
+set ic nosmartcase
+set backspace=indent,eol,start
+
+nnoremap [q :vscmd View.PreviousError<CR>
+nnoremap ]q :vscmd View.NextError<CR>
+nnoremap -q :vscmd View.NextError<CR>:vscmd View.PreviousError<CR>
+
+nnoremap -t :vscmd ReSharper.ReSharper_GotoType<CR>
+nnoremap -s :vscmd ReSharper.ReSharper_GotoSymbol<CR>
+nnoremap -n :vscmd ReSharper.ReSharper_NavigateTo<CR>
+
+nnoremap -rt :vscmd ReSharper.ReSharper_RefactorThis<CR>
+nnoremap -rr :vscmd ReSharper.ReSharper_Rename<CR>
+nnoremap -ro :vscmd ReSharper.ReSharper_Move<CR>
+nnoremap -rd :vscmd ReSharper.ReSharper_SafeDelete<CR>
+nnoremap -rm :vscmd ReSharper.ReSharper_ExtractMethod<CR>
+nnoremap -rv :vscmd ReSharper.ReSharper_IntroVariable<CR>
+nnoremap -rf :vscmd ReSharper.ReSharper_IntroduceField<CR>
+nnoremap -rp :vscmd ReSharper.ReSharper_IntroduceParameter<CR>
+nnoremap -ri :vscmd ReSharper.ReSharper_InlineVariable<CR>
+nnoremap -re :vscmd ReSharper.ReSharper_EncapsulateField<CR>
+nnoremap -rs :vscmd ReSharper.ReSharper_ChangeSignature<CR>
+
+vnoremap -rt :vscmd ReSharper.ReSharper_RefactorThis<CR>
+vnoremap -rr :vscmd ReSharper.ReSharper_Rename<CR>
+vnoremap -ro :vscmd ReSharper.ReSharper_Move<CR>
+vnoremap -rd :vscmd ReSharper.ReSharper_SafeDelete<CR>
+vnoremap -rm :vscmd ReSharper.ReSharper_ExtractMethod<CR>
+vnoremap -rv :vscmd ReSharper.ReSharper_IntroVariable<CR>
+vnoremap -rf :vscmd ReSharper.ReSharper_IntroduceField<CR>
+vnoremap -rp :vscmd ReSharper.ReSharper_IntroduceParameter<CR>
+vnoremap -ri :vscmd ReSharper.ReSharper_InlineVariable<CR>
+vnoremap -re :vscmd ReSharper.ReSharper_EncapsulateField<CR>
+vnoremap -rs :vscmd ReSharper.ReSharper_ChangeSignature<CR>
+
+vnoremap G G$
+nnoremap <SPACE> <SPACE>:noh<CR>
+
+vnoremap > >gv
+vnoremap < <gv
+
+vnoremap <C-X> "+x
+vnoremap <C-C> "+y
+map <C-V>		"+gP
+cmap <C-V>		<C-R>+
+
+nnoremap <C-J> <C-E>
+nnoremap <C-K> <C-Y>
+inoremap <C-J> <C-O><C-E>
+inoremap <C-K> <C-O><C-Y>
+
+nnoremap -a ggVG

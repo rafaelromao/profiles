@@ -1,0 +1,3 @@
+zz
+set autoread
+

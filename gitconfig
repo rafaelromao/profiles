@@ -1,0 +1,57 @@
+## Include this code on .gitconfig:
+
+## Windows
+# [include]
+#     path=~/vimfiles/gitconfig
+#
+
+## *nix/osx
+# [include]
+#     path=~/.vim/gitconfig
+#
+
+[core]
+    symlinks = true
+
+[push]
+	default = simple
+
+[alias]
+	l = log --oneline --decorate --abbrev-commit
+    lg = log --oneline --decorate --graph --abbrev-commit
+    lb = log --oneline --decorate --abbrev-commit origin/HEAD..
+    hub-host = !git remote -v | sed -ne 's/origin\\s\\+\\(https\\|http\\git\\):\\/\\/\\([^\\/]*\\).*(fetch)/\\2/p'
+
+    local-branch = rev-parse --abbrev-ref HEAD
+    push-track = !git push -u origin `git local-branch`
+    set-track = !git branch -u origin/`git local-branch`
+
+    config-gm = !git config user.name 'Eduardo Sousa' && git config user.email 'ecsousa@gmail.com'
+    config-ac = !git config user.name 'Eduardo Sousa' && git config user.email 'esousa@avenuecode.com'
+    config-gap = !git config user.name 'Eduardo Sousa' && git config user.email 'Eduardo_Sousa@gap.com'
+
+    config-hub = !git config --local hub.host `git hub-host`
+
+    sync = !hub sync
+    pr = !hub pr
+    release = !hub release
+
+    #hub release create -m 'Version 6.7.0-gbp6090-01' v6.7.0-gbp6090-01 -p -t story/gbp-6090
+    publish = "!f() { \
+        VERSION=${1#v}; \
+        [ "$VERSION" != "${VERSION/-/}" ] && P=-p; \
+        hub release create -m "Version\\ $VERSION" "v$VERSION" $P -t "$(git rev-parse --abbrev-ref HEAD)"; \
+        }; f"
+
+    ck = "!f() { \
+        FULL_NAME=$(git branch -r | grep \"\\/$1\\$\" | head -n 1 -) ; \
+        BRANCH_NAME=$(echo \"$FULL_NAME\" | sed -e 's/^[^\\/]*\\///'); \
+        git checkout \"${BRANCH_NAME}\"; \
+        }; f"
+
+[branch]
+    # autoSetupMerge = false
+
+[grep]
+    lineNumber = true
+
