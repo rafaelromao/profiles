@@ -1,5 +1,5 @@
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home
-source ~/Projects/Client/developer/bin/dev-aliases.sh
+source ~/Projects/Client/.zshrc
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
