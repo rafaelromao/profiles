@@ -6,6 +6,26 @@
   "alwaysShowTabs": true,
   "showTerminalTitleInTitlebar": true,
   "experimental_showTabsInTitlebar": true,
+  "keybindings": [
+    {
+      "command": "copy",
+      "keys": [
+        "ctrl+c"
+      ]
+    },
+    {
+      "command": "paste",
+      "keys": [
+        "ctrl+v"
+      ]
+    },
+    {
+      "command": "closeTab",
+      "keys": [
+        "ctrl+w"
+      ]
+    }
+  ],
   "profiles": [
     {
       "guid": "{565ed1db-1474-455e-9d62-cb9fc7eb3f59}",
