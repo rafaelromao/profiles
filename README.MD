@@ -28,6 +28,10 @@
 
     Custom shortcuts to arrange windows
 
+## BetterTouchTool
+
+    Custom shortcuts to arrange windows and copy paste
+
 ## vscode
 
     VS Code settings
