@@ -5,5 +5,5 @@
 [includeIf "gitdir:~/Projects/Client/"]
     path = ~/Projects/Client/.gitconfig
 [user]
-	name = Rafael Romão
-	email = rafaelromao@gmail.com
+    name = Rafael Romão
+    email = rafaelromao@gmail.com
