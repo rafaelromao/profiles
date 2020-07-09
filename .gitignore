@@ -1,0 +1,10 @@
+*
+**
+!.gitignore
+!com.apple.symbolichotkeys.plist
+!com.apple.systempreferences.plist
+!com.apple.spaces.plist
+!pbs.plist
+!com.apple.universalaccess.plist
+!ByHost
+!ByHost/.GlobalPreferences.*.plist
