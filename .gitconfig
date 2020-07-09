@@ -1,0 +1,9 @@
+[includeIf "gitdir:~/Projects/Personal/"]
+    path = ~/Projects/Personal/.gitconfig
+[includeIf "gitdir:~/Projects/Company/"]
+    path = ~/Projects/Company/.gitconfig
+[includeIf "gitdir:~/Projects/Client/"]
+    path = ~/Projects/Client/.gitconfig
+[user]
+	name = Rafael Romão
+	email = rafaelromao@gmail.com
