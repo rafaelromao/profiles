@@ -1,7 +1,7 @@
 export JAVA_HOME8=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home
 export JAVA_HOME11=/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
 export JAVA_HOME14=/Library/Java/JavaVirtualMachines/adoptopenjdk-14.jdk/Contents/Home
-export JAVA_HOME=JAVA_HOME14
+export JAVA_HOME=$JAVA_HOME14
 source ~/Projects/Client/.zshrc
 cd ~/Projects
 
