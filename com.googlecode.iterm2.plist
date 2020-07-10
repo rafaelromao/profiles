@@ -362,6 +362,10 @@
 	</dict>
 	<key>Default Bookmark Guid</key>
 	<string>F9F416B5-47B6-45C0-B78F-96882C90AA74</string>
+	<key>DimInactiveSplitPanes</key>
+	<true/>
+	<key>DisableFullscreenTransparency</key>
+	<true/>
 	<key>HapticFeedbackForEsc</key>
 	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
@@ -426,7 +430,7 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 379 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-1440 -862 1440 900 -1440 -862 1440 900 </string>
+	<string>0 0 2560 1417 0 0 2560 1417 </string>
 	<key>NeverWarnAboutSpaces</key>
 	<true/>
 	<key>NeverWarnAboutSpaces_selection</key>
@@ -3244,7 +3248,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>6065A69F-2ABE-4AFE-8914-AECE92286165</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>26</integer>
+	<integer>27</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -4064,6 +4068,8 @@
 	<true/>
 	<key>SoundForEsc</key>
 	<false/>
+	<key>SplitPaneDimmingAmount</key>
+	<real>0.20244348404255325</real>
 	<key>TabStyleWithAutomaticOption</key>
 	<integer>1</integer>
 	<key>VisualIndicatorForEsc</key>
