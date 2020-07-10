@@ -1,4 +1,0 @@
-source ~/.zshrc
-ZSH_THEME="agnosterzak"
-source $ZSH/oh-my-zsh.sh
-
