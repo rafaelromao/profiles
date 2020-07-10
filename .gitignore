@@ -4,6 +4,7 @@
 !com.apple.symbolichotkeys.plist
 !com.apple.systempreferences.plist
 !com.apple.spaces.plist
+!com.apple.dock.db
 !pbs.plist
 !com.apple.universalaccess.plist
 !ByHost
