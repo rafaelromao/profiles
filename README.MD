@@ -35,12 +35,6 @@
 
 # Mac OS, Linux and WSL
 
-## PowerShell
-
-    https://github.com/PowerShell/PowerShell
-    PowerShell profile
-    https://github.com/rafaelromao/profiles/tree/powershell
-
 ## oh-my-zsh
 
     https://ohmyz.sh/
@@ -54,6 +48,12 @@
     https://github.com/rafaelromao/profiles/tree/oh-my-posh
 
 # Mac OS, Linux and WSL, Windows 10
+
+## PowerShell
+
+    https://github.com/PowerShell/PowerShell
+    PowerShell profile
+    https://github.com/rafaelromao/profiles/tree/powershell
 
 ## dotvim
 
