@@ -1,5 +1,6 @@
-# Mac OS
-
+<details>
+  <summary># Mac OS</summary>
+    
 ## macos-home
 
 - ZSH profile and GIT settings
@@ -29,6 +30,8 @@
 
 - Custom shortcuts for Mission Control, Windows Layout, Alt + Tab and Clipboard
 - https://github.com/rafaelromao/profiles/tree/BetterTouchTool
+
+</details>
 
 # Mac OS, Linux and WSL
 
