@@ -41,12 +41,6 @@
     Oh-My-ZSH custom theme
     https://github.com/rafaelromao/profiles/tree/oh-my-zsh
 
-## oh-my-posh
-
-    https://github.com/JanDeDobbeleer/oh-my-posh
-    Oh-My-Posh custom theme
-    https://github.com/rafaelromao/profiles/tree/oh-my-posh
-
 # Mac OS, Linux and WSL, Windows 10
 
 ## PowerShell
@@ -54,6 +48,12 @@
     https://github.com/PowerShell/PowerShell
     PowerShell profile
     https://github.com/rafaelromao/profiles/tree/powershell
+
+## oh-my-posh
+
+    https://github.com/JanDeDobbeleer/oh-my-posh
+    Oh-My-Posh custom theme
+    https://github.com/rafaelromao/profiles/tree/oh-my-posh
 
 ## dotvim
 
