@@ -29,9 +29,9 @@ https://github.com/rafaelromao/profiles/tree/iterm2
 
 ## Spectacle
 
-https://www.spectacleapp.com/
-Custom shortcuts to snap and move windows between monitors
-https://github.com/rafaelromao/profiles/tree/Spectacle
+- https://www.spectacleapp.com/
+- Custom shortcuts to snap and move windows between monitors
+- https://github.com/rafaelromao/profiles/tree/Spectacle
 
 ## BetterTouchTool
 
