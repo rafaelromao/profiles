@@ -3,11 +3,13 @@
 ## macos-home
 
 ZSH profile and GIT settings
+
 https://github.com/rafaelromao/profiles/tree/macos-home
 
 ## macos-keybindigs
 
 Key bindings for word navigation and clipboard
+
 https://github.com/rafaelromao/profiles/tree/macos-keybindings
 
 ## macos-shortcuts
