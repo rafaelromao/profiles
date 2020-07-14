@@ -11,10 +11,4 @@
   "^$\UF702" = (moveWordLeftAndModifySelection:); // ctrl-shift-left 
   "^\UF703" = (moveWordRight:); // ctrl-right 
   "^$\UF703" = (moveWordRightAndModifySelection:); // ctrl-shift-right
-  "^c"       = "copy:"; // ctrl-c
-  "^v"       = "paste:"; // ctrl-v
-  "^x"       = "cut:"; // ctrl-x
-  "^z"       = "undo:"; // ctrl-z
-  "^y"       = "redo:"; // ctrl-y
-  "^a"       = "selectAll:"; // ctrl-a
 }
