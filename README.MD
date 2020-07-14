@@ -1,5 +1,5 @@
 <details>
-  <summary># Mac OS</summary>
+  <summary>Mac OS</summary>
     
 ## macos-home
 
@@ -32,15 +32,17 @@
 - https://github.com/rafaelromao/profiles/tree/BetterTouchTool
 
 </details>
-
-# Mac OS, Linux and WSL
+<details>
+  <summary>Mac OS, Linux and WSL</summary>
 
 ## [oh-my-zsh](https://ohmyz.sh)
 
 - Oh-My-ZSH custom theme
 - https://github.com/rafaelromao/profiles/tree/oh-my-zsh
 
-# Mac OS, Linux and WSL, Windows 10
+</details>
+<details>
+  <summary>Mac OS, Linux and WSL, Windows 10</summary>
 
 ## [PowerShell](https://github.com/PowerShell/PowerShell)
 
@@ -62,9 +64,13 @@
 - VS Code settings
 - https://github.com/rafaelromao/profiles/tree/vscode
 
-# Windows 10
+</details>
+<details>
+  <summary>Windows 10</summary>
 
 ## [Windows Terminal](https://github.com/Microsoft/Terminal)
 
 - Windows Terminal settings
 - https://github.com/rafaelromao/profiles/tree/WindowsTerminal
+
+</details>
