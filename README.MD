@@ -15,13 +15,17 @@ https://github.com/rafaelromao/profiles/tree/macos-keybindings
 ## macos-shortcuts
 
 Custom shortcuts to move between desktops, map esc to capslock, and disable some unused shortcuts
+
 https://github.com/rafaelromao/profiles/tree/macos-shortcuts
 
 ## iTerm2
 
 https://iterm2.com/    
+
 iTerm2 profiles
+
 https://github.com/rafaelromao/profiles/tree/iterm2
+
 
 ## Spectacle
 
