@@ -2,30 +2,23 @@
 
 ## macos-home
 
-ZSH profile and GIT settings
-
-https://github.com/rafaelromao/profiles/tree/macos-home
+- ZSH profile and GIT settings
+- https://github.com/rafaelromao/profiles/tree/macos-home
 
 ## macos-keybindigs
 
-Key bindings for word navigation and clipboard
-
-https://github.com/rafaelromao/profiles/tree/macos-keybindings
+- Key bindings for word navigation and clipboard
+- https://github.com/rafaelromao/profiles/tree/macos-keybindings
 
 ## macos-shortcuts
 
-Custom shortcuts to move between desktops, map esc to capslock, and disable some unused shortcuts
+- Custom shortcuts to move between desktops, map esc to capslock, and disable some unused shortcuts
+- https://github.com/rafaelromao/profiles/tree/macos-shortcuts
 
-https://github.com/rafaelromao/profiles/tree/macos-shortcuts
+## [iTerm2](https://iterm2.com)
 
-## iTerm2
-
-https://iterm2.com/    
-
-iTerm2 profiles
-
-https://github.com/rafaelromao/profiles/tree/iterm2
-
+- iTerm2 profiles
+- https://github.com/rafaelromao/profiles/tree/iterm2
 
 ## Spectacle
 
