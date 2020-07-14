@@ -45,9 +45,9 @@
 
 ## PowerShell
 
-    <https://github.com/PowerShell/PowerShell>
+    https://github.com/PowerShell/PowerShell
     PowerShell profile
-    <https://github.com/rafaelromao/profiles/tree/powershell>
+    https://github.com/rafaelromao/profiles/tree/powershell
 
 ## oh-my-posh
 
