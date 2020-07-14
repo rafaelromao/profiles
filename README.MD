@@ -1,41 +1,49 @@
 # Personal Profiles
 
-## macos-home
+## Mac OS
+
+### macos-home
 
     zshrc custom files
 
-## dotvim
-
-    vim files for Mac OS, Windows and Linux
-
-## oh-my-zsh
-
-    oh-my-zsh repo for ZSH pretty prompty
-
-## iTerm2
+### iTerm2
 
     iTerm2 profiles
 
-## macos-keybindigs
+### macos-keybindigs
 
     Key bindings for word navigation and copy, cut, paste, undo, redo
 
-## macos-shortcuts
+### macos-shortcuts
 
     Custom shortcuts to move between desktops, map esc to capslock, and disable some unused shortcuts
 
-## Spectacle
+### Spectacle
 
     Custom shortcuts to arrange windows
 
-## BetterTouchTool
+### BetterTouchTool
 
     Custom shortcuts to arrange windows and copy paste
 
-## vscode
+## Mac OS, Linux and WSL
+
+### oh-my-zsh
+
+    oh-my-zsh repo for ZSH pretty prompty
+
+## Mac OS, Linux and WSL, Windows 10
+
+### dotvim
+
+    vim files for Mac OS, Windows and Linux
+
+### vscode
 
     VS Code settings
 
-## WindowsTerminal
+## Windows 10
+
+### WindowsTerminal
 
     Windows Terminal settings
