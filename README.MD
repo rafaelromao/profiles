@@ -45,9 +45,9 @@
 
 ## PowerShell
 
-    https://github.com/PowerShell/PowerShell
+    <https://github.com/PowerShell/PowerShell>
     PowerShell profile
-    https://github.com/rafaelromao/profiles/tree/powershell
+    <https://github.com/rafaelromao/profiles/tree/powershell>
 
 ## oh-my-posh
 
@@ -69,7 +69,8 @@
 
 # Windows 10
 
-## WindowsTerminal
+## Windows Terminal
+
     https://github.com/Microsoft/Terminal
     Windows Terminal settings
     https://github.com/rafaelromao/profiles/tree/WindowsTerminal
