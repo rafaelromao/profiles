@@ -4,46 +4,75 @@
 
 ### macos-home
 
-    zshrc custom files
-
-### iTerm2
-
-    iTerm2 profiles
+    ZSH profile and GIT settings
+    https://github.com/rafaelromao/profiles/tree/macos-home
 
 ### macos-keybindigs
 
-    Key bindings for word navigation and copy, cut, paste, undo, redo
+    Key bindings for word navigation and clipboard
+    https://github.com/rafaelromao/profiles/tree/macos-keybindings
 
 ### macos-shortcuts
 
     Custom shortcuts to move between desktops, map esc to capslock, and disable some unused shortcuts
+    https://github.com/rafaelromao/profiles/tree/macos-shortcuts
+
+### iTerm2
+
+    https://iterm2.com/    
+    iTerm2 profiles
+    https://github.com/rafaelromao/profiles/tree/iterm2
 
 ### Spectacle
 
-    Custom shortcuts to arrange windows
+    https://www.spectacleapp.com/
+    Custom shortcuts to snap and move windows between monitors
+    https://github.com/rafaelromao/profiles/tree/Spectacle
 
 ### BetterTouchTool
 
-    Custom shortcuts to arrange windows and copy paste
+    https://folivora.ai/
+    Custom shortcuts for Mission Control, Windows Layout, Alt + Tab and Clipboard
+    https://github.com/rafaelromao/profiles/tree/BetterTouchTool
 
 ## Mac OS, Linux and WSL
 
+### PowerShell
+
+    https://github.com/PowerShell/PowerShell
+    PowerShell profile
+    https://github.com/rafaelromao/profiles/tree/powershell
+
 ### oh-my-zsh
 
-    oh-my-zsh repo for ZSH pretty prompty
+    https://ohmyz.sh/
+    Oh-My-ZSH custom theme
+    https://github.com/rafaelromao/profiles/tree/oh-my-zsh
+
+### oh-my-posh
+
+    https://github.com/JanDeDobbeleer/oh-my-posh
+    Oh-My-Posh custom theme
+    https://github.com/rafaelromao/profiles/tree/oh-my-posh
 
 ## Mac OS, Linux and WSL, Windows 10
 
 ### dotvim
 
-    vim files for Mac OS, Windows and Linux
+    https://www.vim.org/
+    VIM settings
+    https://github.com/rafaelromao/profiles/tree/dotvim
 
 ### vscode
 
+    https://code.visualstudio.com/
     VS Code settings
+    https://github.com/rafaelromao/profiles/tree/vscode
 
 ## Windows 10
 
 ### WindowsTerminal
 
+    https://github.com/Microsoft/Terminal
     Windows Terminal settings
+    https://github.com/rafaelromao/profiles/tree/WindowsTerminal
