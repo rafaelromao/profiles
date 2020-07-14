@@ -28,7 +28,7 @@
 
 ## [BetterTouchTool](https://folivora.ai)
 
-- Custom shortcuts for Mission Control, Windows Layout, Alt + Tab and Clipboard
+- Custom shortcuts for Mission Control, Windows Layout and others
 - https://github.com/rafaelromao/profiles/tree/BetterTouchTool
 
 </details>
