@@ -1,5 +1,6 @@
 # VIM settings
 
+- follow https://github.com/rafaelromao/profiles/tree/macos-home
 - `cd ~`
 - `mkdir .vim`
 - `cd .vim`
