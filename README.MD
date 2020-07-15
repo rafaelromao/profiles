@@ -1,5 +1,7 @@
 # MacOS Home
 
+OS: Mac OS
+
 - follow https://github.com/rafaelromao/profiles/tree/iTerm2
 - `cd ~`
 - `git init`
