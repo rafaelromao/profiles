@@ -1,5 +1,5 @@
-For Windows, start with https://github.com/rafaelromao/profiles/tree/WindowsTerminal
-For Linux or MacOS, start with https://github.com/rafaelromao/profiles/tree/oh-my-zsh
+- For Windows, start with https://github.com/rafaelromao/profiles/tree/WindowsTerminal
+- For Linux or MacOS, start with https://github.com/rafaelromao/profiles/tree/oh-my-zsh
 
 <details>
   <summary>Mac OS</summary>
