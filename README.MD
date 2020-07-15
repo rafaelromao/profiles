@@ -8,3 +8,4 @@
 - `git checkout -f iTerm2`
 - Configure iTerm2 to read the settings
 ![](preferences.jpg?raw=true)
+- follow https://github.com/rafaelromao/profiles/tree/oh-my-zsh
