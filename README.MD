@@ -1,5 +1,7 @@
 # iTerm2
 
+OS: Mac OS
+
 - follow https://github.com/rafaelromao/profiles/tree/powershell
 - `mkdir ~/Projects/Personal/iTerm2`
 - `cd ~/Projects/Personal/iTerm2`
