@@ -1,3 +1,6 @@
+For Windows, start with https://github.com/rafaelromao/profiles/tree/WindowsTerminal
+For Linux or MacOS, start with https://github.com/rafaelromao/profiles/tree/oh-my-zsh
+
 <details>
   <summary>Mac OS</summary>
     
@@ -48,11 +51,6 @@
 
 - PowerShell profile
 - https://github.com/rafaelromao/profiles/tree/powershell
-
-## [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-
-- Oh-My-Posh custom theme
-- https://github.com/rafaelromao/profiles/tree/oh-my-posh
 
 ## [dotvim](https://www.vim.org)
 
