@@ -19,7 +19,7 @@
 ## [iTerm2](https://iterm2.com)
 
 - iTerm2 profiles
-- https://github.com/rafaelromao/profiles/tree/iterm2
+- https://github.com/rafaelromao/profiles/tree/iTerm2
 
 ## [Spectacle](https://www.spectacleapp.com)
 
