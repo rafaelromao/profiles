@@ -1,5 +1,7 @@
 # Mac OS Shortcuts
 
+OS: Mac OS
+
 - follow https://github.com/rafaelromao/profiles/tree/macos-keybindings
 - `cd ~/Library/Preferences`
 - `git init`
