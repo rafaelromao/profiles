@@ -1,6 +1,9 @@
-# Powershell profile
+# Powershell
 
-- follow https://github.com/rafaelromao/profiles/tree/oh-my-zsh
+OS: Mac OS, Linux, Windows 10
+
+- follow https://github.com/rafaelromao/profiles/tree/oh-my-zsh (Mac OS, Linux)
+- follow https://github.com/rafaelromao/profiles/tree/WindowsTerminal (Windows 10)
 - `brew cask install powershell`
 - `cd ~/.config/powershell`
 - `git init`
