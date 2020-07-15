@@ -1,5 +1,7 @@
 # MacOS Home
 
+ZSH profile and GIT settings
+
 OS: Mac OS
 
 - follow https://github.com/rafaelromao/profiles/tree/iTerm2
