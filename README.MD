@@ -1,6 +1,6 @@
 # VIM settings
 
-- follow https://github.com/rafaelromao/profiles/tree/macos-home
+- follow https://github.com/rafaelromao/profiles/tree/macos-shortcuts
 - `cd ~`
 - `mkdir .vim`
 - `cd .vim`
@@ -8,4 +8,4 @@
 - `git remote add origin git@github.com:rafaelromao/profiles.git`
 - `git fetch`
 - `git checkout -f dotvim`
-- follow https://github.com/rafaelromao/profiles/tree/powershell
+- follow https://github.com/rafaelromao/profiles/tree/vscode
