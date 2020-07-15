@@ -10,4 +10,5 @@ OS: Mac OS
 - `git remote add origin git@github.com:rafaelromao/profiles.git`
 - `git fetch`
 - `git checkout -f macos-home`
+- `source ~/.zshrc`
 - follow https://github.com/rafaelromao/profiles/tree/macos-keybindings
