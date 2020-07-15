@@ -1,4 +1,6 @@
-# Key Bindings
+# Mac OS Key Bindings
+
+OS: Mac OS
 
 - follow - follow https://github.com/rafaelromao/profiles/tree/macos-home
 - `cd ~/Library`
