@@ -1,6 +1,6 @@
 # MacOS Home
 
-- follow https://github.com/rafaelromao/profiles/tree/oh-my-zsh
+- follow https://github.com/rafaelromao/profiles/tree/iTerm2
 - `cd ~`
 - `git init`
 - `git remote add origin git@github.com:rafaelromao/profiles.git`
