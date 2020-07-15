@@ -9,5 +9,28 @@
     },
     "editor.fontSize": 18,
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.requirements.JDK11Warning": false,
+    "java.configuration.runtimes": [
+           {
+            "name": "JavaSE-1.8",
+            "javadoc" : "https://docs.oracle.com/javase/8/docs/api",
+            "path": "$JAVA_HOME8",
+            "sources" : "$JAVA_HOME8/lib/src.zip"
+           },
+           {
+            "name": "JavaSE-11",
+            "javadoc" : "https://docs.oracle.com/en/java/javase/11/docs/api",
+            "path": "$JAVA_HOME11",
+            "sources" : "$JAVA_HOME11/lib/src.zip"
+           },
+           {
+            "default":  true,
+            "name": "JavaSE-14",
+            "javadoc" : "https://docs.oracle.com/en/java/javase/14/docs/api",
+            "path": "$JAVA_HOME14",
+            "sources" : "$JAVA_HOME14/lib/src.zip"
+           }
+    ],
+    "java.home": "$JAVA_HOME14"
 }
