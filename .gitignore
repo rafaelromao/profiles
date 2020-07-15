@@ -9,3 +9,4 @@
 !com.apple.universalaccess.plist
 !ByHost
 !ByHost/.GlobalPreferences.*.plist
+!README.MD
