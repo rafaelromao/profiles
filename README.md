@@ -1,5 +1,7 @@
 # Mac OS Shortcuts
 
+Custom shortcuts to move between desktops, map esc to capslock, and disable some unused shortcuts
+
 OS: Mac OS
 
 - follow https://github.com/rafaelromao/profiles/tree/macos-keybindings
