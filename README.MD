@@ -1,5 +1,7 @@
 # Spectacle
 
+OS: Mac OS
+
 - follow https://github.com/rafaelromao/profiles/tree/vscode
 - install Spectacle https://www.spectacleapp.com/
 - `cd ~/Library/Application\ Support/Spectacle` Mac OS
