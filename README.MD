@@ -1,3 +1,5 @@
+Profiles for Mac OS, Linux and Windows
+
 - For Windows, start with https://github.com/rafaelromao/profiles/tree/WindowsTerminal
 - For Linux or MacOS, start with https://github.com/rafaelromao/profiles/tree/oh-my-zsh
 
