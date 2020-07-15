@@ -1,3 +1,7 @@
+# VS Code
+
+OS: Mac OS, Linux, Windows 10
+
 - follow https://github.com/rafaelromao/profiles/tree/dotvim
 - `cd ~/Library/Application\ Support/Code/User` Mac OS
 - `cd ~/.config/Code/User/` Linux
