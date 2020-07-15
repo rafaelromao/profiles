@@ -1,5 +1,7 @@
 # Spectacle
 
+Custom shortcuts to snap and move windows between monitors
+
 OS: Mac OS
 
 - follow https://github.com/rafaelromao/profiles/tree/vscode
