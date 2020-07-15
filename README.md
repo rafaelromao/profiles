@@ -6,4 +6,4 @@
 - `git remote add origin git@github.com:rafaelromao/profiles.git`
 - `git fetch`
 - `git checkout -f macos-shortcuts`
-- follow https://github.com/rafaelromao/profiles/tree/vscode
+- follow https://github.com/rafaelromao/profiles/tree/dotvim
