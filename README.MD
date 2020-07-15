@@ -1,8 +1,8 @@
-# Required Fonts:
-- https://github.com/powerline/fonts
-- https://github.com/tonsky/FiraCode
-
-# Settings file location:
-- https://github.com/microsoft/terminal/blob/master/doc/user-docs/UsingJsonSettings.md
-
-Follow https://github.com/rafaelromao/profiles/tree/powershell
+- install powerline fonts https://github.com/powerline/fonts
+- install firacode fonts https://github.com/tonsky/FiraCode
+- `cd $env:LocalAppData\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`
+- `git init`
+- `git remote add origin git@github.com:rafaelromao/profiles.git`
+- `git fetch`
+- `git checkout -f WindowsTerminal`
+- follow https://github.com/rafaelromao/profiles/tree/powershell
