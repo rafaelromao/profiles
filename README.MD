@@ -1,5 +1,7 @@
 # BetterTouchTool
 
+OS: Mac OS
+
 - follow https://github.com/rafaelromao/profiles/tree/Spectacle
 - install BetterTouchTool https://folivora.ai/
 - `cd ~/Library/Application\ Support/BetterTouchTool` Mac OS
