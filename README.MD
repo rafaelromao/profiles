@@ -1,5 +1,7 @@
 # Mac OS Key Bindings
 
+Key bindings for word navigation
+
 OS: Mac OS
 
 - follow - follow https://github.com/rafaelromao/profiles/tree/macos-home
