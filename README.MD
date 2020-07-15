@@ -1,6 +1,6 @@
 # Windows Terminal
 
-OS: Windows
+OS: Windows 10
 
 - install powerline fonts https://github.com/powerline/fonts
 - install firacode fonts https://github.com/tonsky/FiraCode
