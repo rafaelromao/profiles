@@ -1,0 +1,9 @@
+- follow https://github.com/rafaelromao/profiles/tree/dotvim
+- `cd ~/Library/Application\ Support/Code/User` Mac OS
+- `cd ~/.config/Code/User/` Linux
+- `cd %APPDATA%\Code\User\` Windows
+- `git init`
+- `git remote add origin git@github.com:rafaelromao/profiles.git`
+- `git fetch`
+- `git checkout -f vscode`
+- follow https://github.com/rafaelromao/profiles/tree/Spectacle
