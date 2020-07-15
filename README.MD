@@ -1,7 +1,7 @@
 ## Profiles for Mac OS, Linux and Windows
 
-- For Linux or MacOS, start with https://github.com/rafaelromao/profiles/tree/oh-my-zsh
-- For Windows, start with https://github.com/rafaelromao/profiles/tree/WindowsTerminal
+- [Linux or Mac OS](https://github.com/rafaelromao/profiles/tree/oh-my-zsh)
+- [Windows 10](https://github.com/rafaelromao/profiles/tree/WindowsTerminal)
 
 ## Branches
 
