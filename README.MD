@@ -1,76 +1,18 @@
 ## Profiles for Mac OS, Linux and Windows
 
-- For Windows, start with https://github.com/rafaelromao/profiles/tree/WindowsTerminal
 - For Linux or MacOS, start with https://github.com/rafaelromao/profiles/tree/oh-my-zsh
+- For Windows, start with https://github.com/rafaelromao/profiles/tree/WindowsTerminal
 
-<details>
-  <summary>Mac OS</summary>
-    
-## macos-home
+## Branches
 
-- ZSH profile and GIT settings
-- https://github.com/rafaelromao/profiles/tree/macos-home
-
-## macos-keybindigs
-
-- Key bindings for word navigation and clipboard
-- https://github.com/rafaelromao/profiles/tree/macos-keybindings
-
-## macos-shortcuts
-
-- Custom shortcuts to move between desktops, map esc to capslock, and disable some unused shortcuts
-- https://github.com/rafaelromao/profiles/tree/macos-shortcuts
-
-## [iTerm2](https://iterm2.com)
-
-- iTerm2 profiles
-- https://github.com/rafaelromao/profiles/tree/iTerm2
-
-## [Spectacle](https://www.spectacleapp.com)
-
-- Custom shortcuts to snap and move windows between monitors
-- https://github.com/rafaelromao/profiles/tree/Spectacle
-
-## [BetterTouchTool](https://folivora.ai)
-
-- Custom shortcuts for Mission Control, Windows Layout and others
-- https://github.com/rafaelromao/profiles/tree/BetterTouchTool
-
-</details>
-<details>
-  <summary>Mac OS, Linux and WSL</summary>
-
-## [oh-my-zsh](https://ohmyz.sh)
-
-- Oh-My-ZSH custom theme
-- https://github.com/rafaelromao/profiles/tree/oh-my-zsh
-
-</details>
-<details>
-  <summary>Mac OS, Linux and WSL, Windows 10</summary>
-
-## [PowerShell](https://github.com/PowerShell/PowerShell)
-
-- PowerShell profile
-- https://github.com/rafaelromao/profiles/tree/powershell
-
-## [dotvim](https://www.vim.org)
-
-- VIM settings
-- https://github.com/rafaelromao/profiles/tree/dotvim
-
-## [vscode](https://code.visualstudio.com/)
-
-- VS Code settings
-- https://github.com/rafaelromao/profiles/tree/vscode
-
-</details>
-<details>
-  <summary>Windows 10</summary>
-
-## [Windows Terminal](https://github.com/Microsoft/Terminal)
-
-- Windows Terminal settings
-- https://github.com/rafaelromao/profiles/tree/WindowsTerminal
-
-</details>
+- [Windows Terminal](https://github.com/rafaelromao/profiles/tree/WindowsTerminal)
+- [oh-my-zsh](https://github.com/rafaelromao/profiles/tree/oh-my-zsh)
+- [powershell](https://github.com/rafaelromao/profiles/tree/powershell)
+- [iTerm2](https://github.com/rafaelromao/profiles/tree/iTerm2)
+- [dotvim](https://github.com/rafaelromao/profiles/tree/dotvim)
+- [vscode](https://github.com/rafaelromao/profiles/tree/vscode)
+- [macos-home](https://github.com/rafaelromao/profiles/tree/macos-home)
+- [macos-keybindigs](https://github.com/rafaelromao/profiles/tree/macos-keybindings)
+- [macos-shortcuts](https://github.com/rafaelromao/profiles/tree/macos-shortcuts)
+- [Spectacle](https://github.com/rafaelromao/profiles/tree/Spectacle)
+- [BetterTouchTool](https://github.com/rafaelromao/profiles/tree/BetterTouchTool)
