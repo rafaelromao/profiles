@@ -1,6 +1,6 @@
 # iTerm2
 
-- follow https://github.com/rafaelromao/profiles/tree/oh-my-posh
+- follow https://github.com/rafaelromao/profiles/tree/powershell
 - `mkdir ~/Projects/Personal/iTerm2`
 - `cd ~/Projects/Personal/iTerm2`
 - `git init`
