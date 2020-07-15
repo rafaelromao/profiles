@@ -1,5 +1,7 @@
 # VIM settings
 
+OS: Mac OS, Linux, Windows 10
+
 - follow https://github.com/rafaelromao/profiles/tree/macos-shortcuts
 - `cd ~`
 - `mkdir .vim`
