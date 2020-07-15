@@ -1,3 +1,7 @@
+# Windows Terminal
+
+OS: Windows
+
 - install powerline fonts https://github.com/powerline/fonts
 - install firacode fonts https://github.com/tonsky/FiraCode
 - `cd $env:LocalAppData\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`
