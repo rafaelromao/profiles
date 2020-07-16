@@ -1,6 +1,13 @@
 *
 **
+!.zshrc
 !.gitignore
 !.ideavimrc
-!.zshrc
+!.oh-my-zsh
+!.oh-my-zsh/fsh
+!.oh-my-zsh/fsh/**
+!themes
+!themes/paradoxromao.zsh-theme
+!git-prompt.sh
 !README.MD
+!pretty-prompt.png
