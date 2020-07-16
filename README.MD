@@ -11,4 +11,4 @@ OS: Mac OS
 - `git checkout -f iTerm2`
 - Configure iTerm2 to read the settings
 ![](preferences.jpg?raw=true)
-- follow https://github.com/rafaelromao/profiles/tree/macos-shortcuts
+- follow https://github.com/rafaelromao/profiles/tree/macos-keybindings
