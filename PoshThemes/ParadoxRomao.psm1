@@ -31,7 +31,7 @@ function Write-Theme {
     }
 
     $user = $sl.CurrentUser
-    $computer = $sl.CurrentHostname
+    $computer = $hostName
     $path = Get-FullPath -dir $pwd
     if (Test-NotDefaultUser($user)) {
         $prompt += Write-Prompt -Object "$user@$computer " -ForegroundColor $sl.Colors.SessionInfoForegroundColor -BackgroundColor $sl.Colors.SessionInfoBackgroundColor
@@ -77,6 +77,10 @@ function Write-Theme {
     $prompt
 }
 
+$hostName = Get-ComputerName | select-string "(.*)\.local" -AllMatches | % {$_.matches.groups[1].value}
+if ($null -eq $hostName) {
+    $hostName = Get-ComputerName
+}
 $sl = $global:ThemeSettings #local settings
 $sl.PromptSymbols.StartSymbol = ''
 $sl.PromptSymbols.PromptIndicator = [char]::ConvertFromUtf32(0x276F)
