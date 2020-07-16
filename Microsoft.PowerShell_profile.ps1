@@ -7,6 +7,6 @@ Import-Module oh-my-posh
 Set-Theme ParadoxRomao
 
 # https://github.com/PowerShell/PSReadLine
-. ./PSReadLineProfile.ps1
+. $HOME/.config/powershell/PSReadLineProfile.ps1
 
 clear
