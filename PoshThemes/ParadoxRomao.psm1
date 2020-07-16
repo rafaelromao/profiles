@@ -1,3 +1,12 @@
+# Oh-My-Posh Theme
+# 2020 July
+# https://github.com/rafaelromao/profiles
+#
+# Credits for the base work to:
+# https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme
+# https://github.com/JanDeDobbeleer/oh-my-posh/blob/master/Themes/Paradox.psm1
+# https://github.com/lyze/posh-git-sh
+
 #requires -Version 2 -Modules posh-git
 
 function Write-Theme {
