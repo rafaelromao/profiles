@@ -19,5 +19,5 @@ OS: Mac OS, Linux
 - `source ~/.zshrc`
 - follow https://github.com/rafaelromao/profiles/tree/powershell
 
-![](.oh-my-zsh/pretty-prompt.png?raw=true)
+![](pretty-prompt.png?raw=true)
 
