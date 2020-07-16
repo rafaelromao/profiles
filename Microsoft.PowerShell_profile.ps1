@@ -5,5 +5,8 @@
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-Theme ParadoxRomao
-Set-PSReadlineOption -BellStyle None
+
+# https://github.com/PowerShell/PSReadLine
+. ./PSReadLineProfile.ps1
+
 clear
