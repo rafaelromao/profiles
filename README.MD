@@ -1,6 +1,6 @@
 ## Profiles for Mac OS, Linux and Windows
 
-- [Linux or Mac OS](https://github.com/rafaelromao/profiles/tree/oh-my-zsh)
+- [Linux or Mac OS](https://github.com/rafaelromao/profiles/tree/zsh)
 - [Windows 10](https://github.com/rafaelromao/profiles/tree/WindowsTerminal)
 
 ## Branches
