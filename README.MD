@@ -4,7 +4,7 @@ Key bindings for word navigation
 
 OS: Mac OS
 
-- follow - follow https://github.com/rafaelromao/profiles/tree/powershell
+- follow - follow https://github.com/rafaelromao/profiles/tree/iTerm2
 - `cd ~/Library`
 - `mkdir KeyBindings`
 - `cd KeyBindings`
