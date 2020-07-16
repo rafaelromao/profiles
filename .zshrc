@@ -114,4 +114,4 @@ export JAVA_HOME11=/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Content
 export JAVA_HOME14=/Library/Java/JavaVirtualMachines/adoptopenjdk-14.jdk/Contents/Home
 export JAVA_HOME=$JAVA_HOME14
 
-source $ZSH/fsh/fast-syntax-highlighting.plugin.zsh
+source $HOME/fsh/fast-syntax-highlighting.plugin.zsh

@@ -4,10 +4,8 @@
 !.gitignore
 !.ideavimrc
 !.oh-my-zsh
-!.oh-my-zsh/fsh
-!.oh-my-zsh/fsh/**
-!.oh-my-zsh/pretty-prompt.png
 !.oh-my-zsh/themes
 !.oh-my-zsh/themes/paradoxromao.zsh-theme
-!git-prompt.sh
+!.oh-my-zsh/themes/git-prompt.sh
+!pretty-prompt.png
 !README.MD

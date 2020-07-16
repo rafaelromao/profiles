@@ -10,6 +10,8 @@ OS: Mac OS, Linux
 - `cd $ZSH`
 - `rm -rf .git`
 - `cd ~`
+- `git clone https://github.com/zdharma/fast-syntax-highlighting fsh`
+- `rm -rf fsh/.git`
 - `git init`
 - `git remote add origin git@github.com:rafaelromao/profiles.git`
 - `git fetch`
