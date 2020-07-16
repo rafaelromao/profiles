@@ -7,8 +7,7 @@ OS: Mac OS, Linux
 - `brew install zsh-syntax-highlighting` ([Mac OS](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md))
 - `sudo apt-get zsh-syntax-highlighting` ([Ubuntu](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md))
 - `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-- `cd $ZSH`
-- `rm -rf .git`
+- `rm -rf $ZSH/.git`
 - `cd ~`
 - `git clone https://github.com/zdharma/fast-syntax-highlighting fsh`
 - `rm -rf fsh/.git`
