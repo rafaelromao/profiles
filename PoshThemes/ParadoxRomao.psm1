@@ -53,6 +53,7 @@ function Write-Theme {
     # Writes the drive portion
     $prompt += Write-Prompt -Object $($sl.PromptSymbols.SegmentForwardSymbol) -ForegroundColor $sl.Colors.PromptBackgroundColor -BackgroundColor $sl.Colors.PathBackgroundColor
     $prompt += Write-Prompt -Object " $path " -ForegroundColor $sl.Colors.PromptForegroundColor -BackgroundColor $sl.Colors.PathBackgroundColor
+    $lastColor = $sl.Colors.PathBackgroundColor
 
     $status = Get-VCSStatus
     if ($status) {
