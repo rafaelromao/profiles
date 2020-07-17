@@ -16,5 +16,7 @@ OS: Mac OS, Linux
 - `source ~/.zshrc`
 - follow https://github.com/rafaelromao/profiles/tree/powershell
 
+ZSH (above) and Powershell (below) on iTerm2
+
 ![](pretty-prompt.png?raw=true)
 
