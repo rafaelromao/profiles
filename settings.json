@@ -46,28 +46,10 @@
       "icon": "ms-appdata:///roaming/pwsh-32.png"
     },
     {
-      "guid": "{E6A41A00-0EBA-4F5F-85E8-B28840E28B27}",
-      "name": "PowerShell - Jetbrains Academy",
-      "startingDirectory": "C:\\Projects\\GitHub\\jetbrains-academy",
-      "colorScheme": "Dracula",
-      "historySize": 9001,
-      "snapOnInput": true,
-      "cursorColor": "#FFFFFF",
-      "cursorShape": "bar",
-      "commandline": "pwsh",
-      "fontFace": "Fira Code",
-      "fontSize": 14,
-      "acrylicOpacity": 0.7,
-      "useAcrylic": false,
-      "closeOnExit": true,
-      "padding": "0, 0, 0, 0",
-      "icon": "ms-appdata:///roaming/pwsh-32.png"
-    },
-    {
       "guid": "{EA662877-7150-45A3-B99E-A4EE891138F3}",
-      "name": "PowerShell - settings.json",
+      "name": "Settings",
       "startingDirectory": "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\",
-      "colorScheme": "Campbell",
+      "colorScheme": "Solarized Dark",
       "historySize": 9001,
       "snapOnInput": true,
       "cursorColor": "#FFFFFF",
@@ -84,14 +66,14 @@
     {
       "guid": "{09dc5eef-6840-4050-ae69-21e55e6a2e62}",
       "name": "Ubuntu",
-      "colorScheme": "Ubuntu Improved",
+      "colorScheme": "Solarized Dark",
       "startingDirectory": "~/Projects",
       "historySize": 9001,
       "snapOnInput": true,
       "cursorColor": "#FFFFFF",
       "cursorShape": "bar",
       "commandline": "wsl.exe",
-      "fontFace": "Hack",
+      "fontFace": "Fira Code",
       "fontSize": 14,
       "acrylicOpacity": 0.7,
       "useAcrylic": false,
@@ -119,28 +101,28 @@
       "icon": "ms-appdata:///roaming/cmd.ico"
     },
     {
-      "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-      "hidden": true,
-      "name": "PowerShell Core",
-      "source": "Windows.Terminal.PowershellCore"
-    },
-    {
-      "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-      "hidden": true,
-      "name": "Azure Cloud Shell",
-      "source": "Windows.Terminal.Azure"
-    },
-    {
-      "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
-      "hidden": true,
-      "name": "Ubuntu",
-      "source": "Windows.Terminal.Wsl"
+        "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+        "hidden": true,
+        "name": "PowerShell",
+        "source": "Windows.Terminal.PowershellCore"
     },
     {
         "guid": "{63e31163-583f-5850-9c1e-24e227dd2da9}",
-        "hidden": false,
+        "hidden": true,
         "name": "PowerShell (dotnet global)",
         "source": "Windows.Terminal.PowershellCore"
+    },
+    {
+        "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+        "hidden": true,
+        "name": "Ubuntu",
+        "source": "Windows.Terminal.Wsl"
+    },
+    {
+        "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+        "hidden": true,
+        "name": "Azure Cloud Shell",
+        "source": "Windows.Terminal.Azure"
     }
   ],
   "schemes": [
