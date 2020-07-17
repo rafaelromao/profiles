@@ -18,6 +18,6 @@ OS: Mac OS, Linux, Windows 10
 - `. $PROFILE`
 - follow https://github.com/rafaelromao/profiles/tree/iTerm2
 
-Powershell (above) and ZSH on WSL 2 (bellow) on Windows Terminal
+Powershell (above) and ZSH on WSL 2 (below) on Windows Terminal
 
 ![](pretty-prompt.PNG?raw=true)
