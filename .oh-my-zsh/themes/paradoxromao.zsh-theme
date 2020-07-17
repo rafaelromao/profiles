@@ -73,9 +73,9 @@ prompt_end() {
 # Context: user@hostname (who am I and where am I)
 prompt_context() {
   if [[ -n "$SSH_CLIENT" ]]; then
-    prompt_segment red white "%{$fg_bold[white]%(!.%{%F{white}%}.)%}$USER@%m%{$fg_no_bold[white]%}"
+    prompt_segment $CURRENT_BG white "%{$fg_bold[white]%(!.%{%F{white}%}.)%}$USER@%m%{$fg_no_bold[white]%}"
   else
-    prompt_segment "#073642" white "%{$fg[white]%(!.%{%F{white}%}.)%}$USER@%m%{$fg_no_bold[white]%}"
+    prompt_segment $CURRENT_BG white "%{$fg[white]%(!.%{%F{white}%}.)%}$USER@%m%{$fg_no_bold[white]%}"
   fi
 }
 
