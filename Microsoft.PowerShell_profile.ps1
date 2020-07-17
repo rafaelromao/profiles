@@ -30,3 +30,5 @@ Set-PSReadLineOption -Colors @{
     "Type" = [ConsoleColor]::DarkCyan;
     "Member" = [ConsoleColor]::Green;
 }
+
+$PROFILE_DIR = $(Split-Path $PROFILE)
