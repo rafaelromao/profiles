@@ -642,14 +642,16 @@
 			<true/>
 			<key>Background Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.21176470588235294</real>
+				<real>0.25882352941176473</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.16862745098039217</real>
+				<real>0.21176470588235294</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.027450980392156862</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -1339,13 +1341,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.21176470588235294</real>
+				<real>0.25882352941176473</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.16862745098039217</real>
+				<real>0.21176470588235294</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.027450980392156862</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -2046,14 +2048,16 @@
 			<true/>
 			<key>Background Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.21176470588235294</real>
+				<real>0.25882352941176473</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.16862745098039217</real>
+				<real>0.21176470588235294</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.027450980392156862</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -2738,14 +2742,16 @@
 			<true/>
 			<key>Background Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.21176470588235294</real>
+				<real>0.25882352941176473</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.16862745098039217</real>
+				<real>0.21176470588235294</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.027450980392156862</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -3432,14 +3438,16 @@
 			<false/>
 			<key>Background Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.21176470588235294</real>
+				<real>0.25882352941176473</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.16862745098039217</real>
+				<real>0.21176470588235294</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.027450980392156862</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -4785,7 +4793,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-07-15T13:04:57Z</date>
+	<date>2020-07-16T13:04:58Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
