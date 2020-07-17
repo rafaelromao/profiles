@@ -6,7 +6,9 @@ using namespace System.Management.Automation.Language
 # This is roughly what I use so there is some emphasis on emacs bindings,
 # but most of these bindings make sense in Windows mode as well.
 
-Import-Module PSReadLine
+if (-Not (Get-Module -Name PSReadLine -ListAvailable)) {
+    Import-Module PSReadLine -Force -ErrorAction SilentlyContinue
+}
 
 Set-PSReadLineOption -EditMode Emacs
 

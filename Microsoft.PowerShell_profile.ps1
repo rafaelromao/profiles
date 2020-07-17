@@ -2,11 +2,13 @@
 # Install-Module oh-my-posh -Scope CurrentUser
 # Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
 
-Import-Module posh-git
-Import-Module oh-my-posh
-Set-Theme ParadoxRomao
+if (-Not (Get-Module -Name posh-git -ListAvailable)) {
+    Import-Module posh-git -Force -ErrorAction SilentlyContinue
+}
+if (-Not (Get-Module -Name oh-my-posh -ListAvailable)) {
+    Import-Module oh-my-posh -Force -ErrorAction SilentlyContinue
+}
+Set-Theme ParadoxRomao -ErrorAction SilentlyContinue
 
 # https://github.com/PowerShell/PSReadLine
-. $HOME/.config/powershell/PSReadLineProfile.ps1
-
-clear
+. "$(Split-Path $PROFILE)/PSReadLineProfile.ps1" -ErrorAction SilentlyContinue
