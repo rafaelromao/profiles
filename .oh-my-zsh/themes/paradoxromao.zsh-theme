@@ -73,9 +73,9 @@ prompt_end() {
 # Context: user@hostname (who am I and where am I)
 prompt_context() {
   if [[ -n "$SSH_CLIENT" ]]; then
-    prompt_segment $CURRENT_BG white "%{$fg_bold[white]%(!.%{%F{white}%}.)%}$USER@%m%{$fg_no_bold[white]%}"
+    prompt_segment $CURRENT_BG white "%{$fg_bold[white]%(!.%{%F{white}%}.)%} $USER@%m%{$fg_no_bold[white]%}"
   else
-    prompt_segment $CURRENT_BG white "%{$fg[white]%(!.%{%F{white}%}.)%}$USER@%m%{$fg_no_bold[white]%}"
+    prompt_segment $CURRENT_BG white "%{$fg[white]%(!.%{%F{white}%}.)%} $USER@%m%{$fg_no_bold[white]%}"
   fi
 }
 
@@ -201,12 +201,19 @@ prompt_status() {
   [[ $UID -eq 0 ]] && symbols+="%{%F{yellow}%}$LIGHTNING"
   [[ $(jobs -l | wc -l) -gt 0 ]] && symbols+="%{%F{cyan}%}$GEAR"
 
-  [[ -n "$symbols" ]] && prompt_segment black default "$symbols"
+  [[ -n "$symbols" ]] && prompt_segment $CURRENT_BG default " $symbols"
+}
+
+prompt_shell() {
+  prompt_segment yellow white "%{$fg[white]%} ZSH%{$fg_no_bold[white]%}"
 }
 
 ## Main prompt
 build_prompt() {
   RETVAL=$?
+  prompt_shell
+  prompt_end
+  CURRENT_BG='%f'
   prompt_status
   prompt_context
   CURRENT_BG='%f'
