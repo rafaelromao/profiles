@@ -12,3 +12,7 @@ OS: Mac OS
 - Configure iTerm2 to read the settings
 ![](preferences.jpg?raw=true)
 - follow https://github.com/rafaelromao/profiles/tree/macos-keybindings
+
+ZSH (above) and Powershell (below) on iTerm2
+
+![](pretty-prompt.PNG?raw=true)
