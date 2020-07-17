@@ -18,4 +18,4 @@ OS: Mac OS, Linux, Windows 10
 - `. $PROFILE`
 - follow https://github.com/rafaelromao/profiles/tree/iTerm2
 
-![](pretty-prompt.png?raw=true)
+![](pretty-prompt.PNG?raw=true)
