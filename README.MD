@@ -10,9 +10,9 @@ OS: Mac OS
 - `git fetch`
 - `git checkout -f iTerm2`
 - Configure iTerm2 to read the settings
-![](preferences.jpg?raw=true)
+![](preferences.png?raw=true)
 - follow https://github.com/rafaelromao/profiles/tree/macos-keybindings
 
 ZSH (above) and Powershell (below) on iTerm2
 
-![](pretty-prompt.PNG?raw=true)
+![](pretty-prompt.png?raw=true)
