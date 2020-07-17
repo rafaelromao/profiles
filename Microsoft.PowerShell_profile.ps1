@@ -12,3 +12,21 @@ Set-Theme ParadoxRomao -ErrorAction SilentlyContinue
 
 # https://github.com/PowerShell/PSReadLine
 . "$(Split-Path $PROFILE)/PSReadLineProfile.ps1" -ErrorAction SilentlyContinue
+
+Set-PSReadLineOption -Colors @{
+    "Default" = [ConsoleColor]::DarkYellow;
+    "ContinuationPrompt" = [ConsoleColor]::DarkGray;
+    "String" = [ConsoleColor]::DarkYellow;
+    "Command" = [ConsoleColor]::DarkGreen;
+    "Parameter" = [ConsoleColor]::DarkCyan;
+    "Number" = [ConsoleColor]::White;
+    "Error" = [ConsoleColor]::Red;
+    "Comment" = [ConsoleColor]::DarkGray;
+    "Operator" = [ConsoleColor]::DarkCyan;
+    "Keyword" = [ConsoleColor]::DarkYellow;
+    "Emphasis" = [ConsoleColor]::Magenta;
+    "Selection" = [ConsoleColor]::DarkGray;
+    "Variable" = [ConsoleColor]::Green;
+    "Type" = [ConsoleColor]::DarkCyan;
+    "Member" = [ConsoleColor]::Green;
+}
