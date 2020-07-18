@@ -9,6 +9,9 @@
     },
     "editor.fontSize": 18,
     "editor.suggestSelection": "first",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "terminal.integrated.fontFamily": "Noto Mono for Powerline",
+    "terminal.integrated.fontSize": 16,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.requirements.JDK11Warning": false,
     "java.configuration.runtimes": [
