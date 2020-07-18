@@ -25,7 +25,7 @@ function Write-Theme {
         $prompt += Write-Prompt -Object "$($sl.PromptSymbols.FailedCommandSymbol) " -ForegroundColor $sl.Colors.CommandFailedIconForegroundColor -BackgroundColor $sl.Colors.SessionInfoBackgroundColor
     }
 
-    $prompt += Write-Prompt -Object " PWSH " -ForegroundColor White -BackgroundColor DarkYellow
+    $prompt += Write-Prompt -Object " PWSH $((Get-Host).Version.Major).$((Get-Host).Version.Minor)" -ForegroundColor White -BackgroundColor DarkYellow
     $prompt += Write-Prompt -Object "$($sl.PromptSymbols.SegmentForwardSymbol) " -ForegroundColor DarkYellow -BackgroundColor $sl.Colors.SessionInfoBackgroundColor 
 
     #check for elevated prompt
