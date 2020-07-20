@@ -81,10 +81,7 @@ function Write-Theme {
     $prompt
 }
 
-$hostName = Get-ComputerName | select-string "(.*)\.local" -AllMatches | % {$_.matches.groups[1].value}
-if ($null -eq $hostName) {
-    $hostName = Get-ComputerName | select-string "(.*?)\." -AllMatches | % {$_.matches.groups[1].value}
-}
+$hostName = Get-ComputerName | select-string "(.*?)\." -AllMatches | % {$_.matches.groups[1].value}
 if ($null -eq $hostName) {
     $hostName = Get-ComputerName
 }
