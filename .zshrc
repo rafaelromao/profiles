@@ -10,7 +10,17 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="${1:-paradoxromao}"
+# ZSH_THEME="${1:-paradoxromao}"
+
+# Set theme to first parameter, if any, even if theme already set
+if (( ${+1} )); then 
+  ZSH_THEME="${1}"
+fi
+
+# If no theme set yet, set it to default
+if (( !${+ZSH_THEME} )); then 
+  ZSH_THEME="paradoxromao"
+fi
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
