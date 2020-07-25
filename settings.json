@@ -80,7 +80,7 @@
     {
       "guid": "{09dc5eef-6840-4050-ae69-21e55e6a2e62}",
       "name": "Ubuntu",
-      "colorScheme": "Solarized Dark",
+      "colorScheme": "Ubuntu Improved",
       "startingDirectory": "~/Projects",
       "historySize": 9001,
       "snapOnInput": true,
@@ -89,7 +89,7 @@
       "commandline": "wsl.exe",
       "fontFace": "Fira Code",
       "fontSize": 14,
-      "acrylicOpacity": 0.7,
+      "acrylicOpacity": 0.3,
       "useAcrylic": false,
       "closeOnExit": false,
       "padding": "0, 0, 0, 0",
