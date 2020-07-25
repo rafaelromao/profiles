@@ -13,7 +13,7 @@ OS: Mac OS, Linux
 - `git remote add origin git@github.com:rafaelromao/profiles.git`
 - `git fetch`
 - `git checkout -f zsh`
-- `source ~/.zshrc`
+- `source ~/.zshrc paradoxromao`
 - follow https://github.com/rafaelromao/profiles/tree/powershell
 
 ZSH (above) and Powershell (below) on iTerm2
