@@ -63,7 +63,7 @@
       "guid": "{EA662877-7150-45A3-B99E-A4EE891138F3}",
       "name": "Settings",
       "startingDirectory": "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\",
-      "colorScheme": "Solarized Dark",
+      "colorScheme": "Dracula",
       "historySize": 9001,
       "snapOnInput": true,
       "cursorColor": "#FFFFFF",
@@ -80,7 +80,7 @@
     {
       "guid": "{09dc5eef-6840-4050-ae69-21e55e6a2e62}",
       "name": "Ubuntu",
-      "colorScheme": "Ubuntu Improved",
+      "colorScheme": "Campbell Improved",
       "startingDirectory": "~/Projects",
       "historySize": 9001,
       "snapOnInput": true,
@@ -163,9 +163,9 @@
       "brightWhite": "#F2F2F2"
     },
     {
-      "name": "Campbell",
+      "name": "Campbell Improved",
       "foreground": "#F2F2F2",
-      "background": "#0C0C0C",
+      "background": "#2C001E",
       "black": "#0C0C0C",
       "red": "#C50F1F",
       "green": "#13A10E",
