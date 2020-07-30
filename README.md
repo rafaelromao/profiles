@@ -12,6 +12,6 @@
 - [dotvim](https://github.com/rafaelromao/profiles/tree/dotvim)
 - [vscode](https://github.com/rafaelromao/profiles/tree/vscode)
 - [macos-keybindigs](https://github.com/rafaelromao/profiles/tree/macos-keybindings)
-- [macos-shortcuts](https://github.com/rafaelromao/profiles/tree/macos-shortcuts)
+- [macos-preferences](https://github.com/rafaelromao/profiles/tree/macos-preferences)
 - [Spectacle](https://github.com/rafaelromao/profiles/tree/Spectacle)
 - [BetterTouchTool](https://github.com/rafaelromao/profiles/tree/BetterTouchTool)
