@@ -12,4 +12,4 @@ OS: Mac OS
 - `git remote add origin git@github.com:rafaelromao/profiles.git`
 - `git fetch`
 - `git checkout -f macos-keybindings`
-- follow - follow https://github.com/rafaelromao/profiles/tree/macos-shortcuts
+- follow - follow https://github.com/rafaelromao/profiles/tree/macos-preferences
