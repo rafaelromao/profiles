@@ -2,7 +2,7 @@
 
 OS: Mac OS, Linux, Windows 10
 
-- follow https://github.com/rafaelromao/profiles/tree/macos-shortcuts
+- follow https://github.com/rafaelromao/profiles/tree/macos-preferences
 - `cd ~`
 - `mkdir .vim`
 - `cd .vim`
