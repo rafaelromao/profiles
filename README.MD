@@ -4,7 +4,7 @@ OS: Mac OS
 
 Custom shortcuts for Mission Control, Windows Layout and others
 
-- follow https://github.com/rafaelromao/profiles/tree/BetterTouchTool
+- follow https://github.com/rafaelromao/profiles/tree/Spectacle
 - install BetterTouchTool https://folivora.ai/
 - `cd ~/Library/Application\ Support/BetterTouchTool`
 - `git init`
