@@ -6,6 +6,6 @@
     path = ~/Projects/Client/.gitconfig
 [user]
     name = Rafael Romão
-    email = rafaelromao@gmail.com
+    useConfigOnly = true
 [pull]
 	rebase = true
