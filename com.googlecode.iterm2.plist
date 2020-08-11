@@ -502,7 +502,7 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 379 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-1440 -862 1440 900 -1440 -862 1440 900 </string>
+	<string>0 0 2560 1417 0 0 2560 1417 </string>
 	<key>NeverWarnAboutPossibleOverrides</key>
 	<true/>
 	<key>NeverWarnAboutPossibleOverrides_selection</key>
@@ -1171,14 +1171,16 @@
 			</dict>
 			<key>Selection Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.25882352941176473</real>
+				<real>0.10345483407149915</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.21176470588235294</real>
+				<real>0.027450980618596091</real>
 				<key>Red Component</key>
-				<real>0.027450980392156862</real>
+				<real>0.25882354378700256</real>
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
@@ -1869,14 +1871,16 @@
 			</dict>
 			<key>Selection Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.25882352941176473</real>
+				<real>0.10196078431372549</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.21176470588235294</real>
-				<key>Red Component</key>
 				<real>0.027450980392156862</real>
+				<key>Red Component</key>
+				<real>0.25882352941176473</real>
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
@@ -2565,14 +2569,16 @@
 			</dict>
 			<key>Selection Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.25882352941176473</real>
+				<real>0.10196078431372549</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.21176470588235294</real>
-				<key>Red Component</key>
 				<real>0.027450980392156862</real>
+				<key>Red Component</key>
+				<real>0.25882352941176473</real>
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
@@ -3263,14 +3269,16 @@
 			</dict>
 			<key>Selection Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.25882352941176473</real>
+				<real>0.10196078431372549</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.21176470588235294</real>
-				<key>Red Component</key>
 				<real>0.027450980392156862</real>
+				<key>Red Component</key>
+				<real>0.25882352941176473</real>
 			</dict>
 			<key>Send Bell Alert</key>
 			<true/>
@@ -3341,12 +3349,12 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {2560, 1440}}</string>
 		<key>topLeft</key>
-		<string>{1009, 853}</string>
+		<string>{1272, 787}</string>
 	</dict>
 	<key>NoSyncInstallationId</key>
 	<string>6065A69F-2ABE-4AFE-8914-AECE92286165</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>39</integer>
+	<integer>41</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -4155,13 +4163,13 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-07-20T13:31:09Z</date>
+	<date>2020-08-11T13:28:09Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
 	<false/>
 	<key>Secure Input</key>
-	<true/>
+	<false/>
 	<key>SmartPlacement</key>
 	<true/>
 	<key>SoundForEsc</key>
