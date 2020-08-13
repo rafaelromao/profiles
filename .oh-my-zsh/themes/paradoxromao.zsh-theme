@@ -58,8 +58,11 @@ prompt_segment() {
 
 # End the prompt, closing any open segments
 prompt_end() {
+  local bg fg
+  [[ -n $1 ]] && bg="%K{$1}" || bg="%k"
   if [[ -n $CURRENT_BG ]]; then
-    print -n " %{%k%F{$CURRENT_BG}%}$SEGMENT_SEPARATOR"
+    print -n " %{$bg%F{$CURRENT_BG}%}$SEGMENT_SEPARATOR%{$fg%}"
+    # print -n " %{%k%F{$CURRENT_BG}%}$SEGMENT_SEPARATOR"
   else
     print -n "%{%k%}"
   fi
@@ -212,7 +215,7 @@ prompt_shell() {
 build_prompt() {
   RETVAL=$?
   prompt_shell
-  prompt_end
+  prompt_end '%f'
   CURRENT_BG='%f'
   prompt_status
   prompt_context
