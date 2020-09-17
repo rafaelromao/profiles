@@ -4,6 +4,8 @@
     path = ~/Projects/Company/.gitconfig
 [includeIf "gitdir:~/Projects/Client/"]
     path = ~/Projects/Client/.gitconfig
+[includeIf "gitdir:~/WoorkRoot/"]
+    path = ~/Projects/Client/.gitconfig
 [user]
     name = Rafael Romão
     useConfigOnly = true
